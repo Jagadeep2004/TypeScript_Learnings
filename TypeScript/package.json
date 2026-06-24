@@ -4,6 +4,8 @@
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
+    "@playwright/test": "^1.61.1",
     "@types/node": "^26.0.0"
-  }
+  },
+  "scripts": {}
 }
